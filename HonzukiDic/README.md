@@ -19,7 +19,7 @@ ZIP圧縮ファイル は最も基本的（？）な info-ZIP を使ってるの
 地名辞典、頑張りました。  
 領地名の前に「＠」をつけると「アウブ・ほにゃらら」に。  
 ギーべ領の前に「＠」をつけると「ギーベ・あひゃらら」に。  
-さらに領地は色と紋章がサジェストで表示されます。  
+さらに領地の色と紋章がサジェストで表示されます。  
 
 [人名辞書](https://github.com/lanceta-net/downloads/blob/master/HonzukiDic/jinmei_latest.txt) 2026-10-05  
 [フルネーム辞書](https://github.com/lanceta-net/downloads/blob/master/HonzukiDic/full-name_latest.txt) 2024-12-11  
