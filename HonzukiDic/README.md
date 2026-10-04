@@ -16,20 +16,26 @@ ZIP圧縮ファイル は最も基本的（？）な info-ZIP を使ってるの
 
 ## ファイル一覧
 
-ファイル名末尾の *YYYYMMDD* は「西暦月日」の8桁で、ファイルを作成した日時です。  
-*latest* は最新版。内容は一番新しい日付と同じ。  
+地名辞典、頑張りました。  
+領地名の前に「＠」をつけると「アウブ・ほにゃらら」に。  
+ギーべ領の前に「＠」をつけると「ギーベ・あひゃらら」に。  
+さらに領地は色と紋章がサジェストで表示されます。  
 
-探すの面倒な人向け。PC版テキストファイルへのリンク。  
-
-[人名辞書](https://github.com/lanceta-net/downloads/blob/master/HonzukiDic/jinmei_latest.txt) 2024-12-11  
+[人名辞書](https://github.com/lanceta-net/downloads/blob/master/HonzukiDic/jinmei_latest.txt) 2026-10-05  
 [フルネーム辞書](https://github.com/lanceta-net/downloads/blob/master/HonzukiDic/full-name_latest.txt) 2024-12-11  
 [神々＆神具スペース無し](https://github.com/lanceta-net/downloads/blob/master/HonzukiDic/gods-nospace_latest.txt) 2025-09-16  
 [神々＆神具スペース有り](https://github.com/lanceta-net/downloads/blob/master/HonzukiDic/gods-space_latest.txt) 2025-09-16  
+[地名辞典](chimei_latest.txt)  2026-10-05
 
-`android' がファイル名に入ってるやつは、古い Android用。念の為。   
+
+### Change Log
+
+- 2024-12-11 人名、フルネーム
+- 2025-09-16 神々＆神具
+- 2026-10-05 地名、人名に追加
 
 
-### ファイルがたくさんある理由
+#### ファイルがたくさんある理由
 
 全部まとめてからとかやってたら終わらん！  
 というのが一番の理由です。  
